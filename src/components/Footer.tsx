@@ -15,7 +15,7 @@ export function Footer() {
               </span>
             </Link>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Desenvolvimento de sites e sistemas web para empresas de Maracanaú, Fortaleza e Caucaia.
+              Desenvolvimento de sites e sistemas web para pequenas e médias empresas em todo o Brasil.
             </p>
           </div>
 
@@ -76,7 +76,7 @@ export function Footer() {
             © 2026 DN4WEB. Todos os direitos reservados.
           </p>
           <p className="text-muted-foreground text-sm">
-            Maracanaú • Fortaleza • Caucaia
+            Pequenas • Médias • Empresas em todo o Brasil.
           </p>
         </div>
       </div>

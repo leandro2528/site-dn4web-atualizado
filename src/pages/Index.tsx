@@ -90,7 +90,7 @@ const Index = () => {
         <div className="container mx-auto px-4 relative z-10 py-20">
           <div className="max-w-4xl mx-auto text-center">
             <span className="inline-block px-4 py-2 rounded-full bg-accent/10 text-accent text-sm font-semibold mb-6 animate-fade-in">
-              Maracanaú • Fortaleza • Caucaia
+            • pequenas e médias empresas em todo o Brasil.
             </span>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-display font-bold text-foreground mb-6 leading-tight animate-slide-up">
@@ -287,7 +287,7 @@ const Index = () => {
             
             <div className="glass-card p-8 md:p-12 text-center">
               <p className="text-lg md:text-xl text-foreground/90 leading-relaxed mb-6">
-                A DN4WEB é uma agência de desenvolvimento web focada em criar sites e sistemas <span className="text-accent font-semibold">simples, práticos e eficientes</span> para empresas de Maracanaú, Fortaleza e Caucaia.
+                A DN4WEB é uma agência de desenvolvimento web focada em criar sites e sistemas <span className="text-accent font-semibold">simples, práticos e eficientes</span> para pequenas e médias empresas em todo o Brasil.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
                 Trabalhamos com foco em organização, clareza e resultado, ajudando empresas a utilizarem a tecnologia como aliada no crescimento do negócio.
@@ -314,10 +314,6 @@ const Index = () => {
               Quer organizar o atendimento da sua empresa e{" "}
               <span className="text-gradient">melhorar seus resultados</span> com tecnologia?
             </h2>
-            
-            <p className="text-lg text-muted-foreground mb-10">
-              Atendimento para Maracanaú, Fortaleza e Caucaia.
-            </p>
             
             <Button variant="hero" size="xl" asChild>
               <a href="https://wa.me/5585981113071?text=Ol%C3%A1%2C%20vi%20pelo%20site%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es" target="_blank" rel="noopener noreferrer">
